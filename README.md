@@ -1,4 +1,4 @@
-# 📚 Processamento de Jurisprudências - Repositório
+# 📚 Processamento de Jurisprudências
 
 Este repositório contém a lógica para o processamento das jurisprudências geradas no repositório [jonas-elias/jurisprudencia-sc-scraping](https://github.com/jonas-elias/jurisprudencia-sc-scraping).
 
